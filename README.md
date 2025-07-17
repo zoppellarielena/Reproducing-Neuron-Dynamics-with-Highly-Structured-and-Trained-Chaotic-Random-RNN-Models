@@ -1,7 +1,7 @@
-# 🧠 Discrete Attractor Dynamics in the Frontal Cortex  
+# Discrete Attractor Dynamics in the Frontal Cortex  
 ## Reproducing Neuron Dynamics with Highly Structured and Trained Chaotic Random RNN Models
 
-This project explores how persistent neural activity, firing that continues after a stimulus is removed, can be reproduced through both **biophysically structured models** and **trained chaotic recurrent neural networks (RNNs)**.
+This project was developed for the course "Physical Models for Living Systems", University of Padova. It explores how persistent neural activity, firing that continues after a stimulus is removed, can be reproduced through both **biophysically structured models** and **trained chaotic recurrent neural networks (RNNs)**.
 
 Persistent activity is crucial for short-term memory and motor planning. In their study, [Inagaki et al. (2019)](https://doi.org/10.1038/s41586-019-0919-7) demonstrated that such activity in the **anterior lateral motor cortex (ALM)** of mice arises from **network dynamics**, not intrinsic cellular properties. Their results were modeled using structured discrete attractor networks.
 

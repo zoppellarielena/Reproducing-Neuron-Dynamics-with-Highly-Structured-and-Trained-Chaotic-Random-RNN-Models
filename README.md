@@ -10,6 +10,7 @@ This project asks:
 
 
 ## Inagaki et al. Experimental Background
+Original experimental data were download from FigShare.
 
 - **Task:** Delayed-response left/right licking task
 - **Epochs:** Sample → Delay → Go cue
